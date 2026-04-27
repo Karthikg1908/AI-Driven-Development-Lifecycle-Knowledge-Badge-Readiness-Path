@@ -10,6 +10,7 @@ Key Points
 5. The core AI-DLC workflow follows a continuous cycle: Task → Plan → Clarify → Refine → Approve → Execute → Verify
 Cross-functional collaboration is essential for rapid decision-making
 
+---
 
 ## Evolution from Traditional SDLC
 
@@ -19,3 +20,20 @@ Key Points
 3. Today’s AI capabilities represent another inflection point requiring fundamental methodology changes.
 4. Retrofitting AI into existing processes creates mismatches between AI speed and human-paced ceremonies.
 5. AI-DLC reimagines development with AI as integral, enabling continuous flow and real-time collaboration.
+
+---
+
+## AI-DLC Principles
+
+Nine Core Principles
+1. Reimagine workflows for the AI era rather than retrofitting AI into existing methodologies.
+2. AI orchestrates development while humans maintain ultimate control through validation and decisions.
+3. Design techniques are integral, not optional, building richer context for AI.
+4. Balance AI capabilities with human expertise through pragmatic alignment.
+5. Preserve proven practices while optimizing for AI-speed collaboration.
+6. Streamline roles to minimize handoffs while maintaining necessary oversight.
+7. Simplify to three phases (Inception, Construction, Operations) with strategic validation points.
+8. Enable flexible, AI-recommended workflows rather than rigid templates.
+9. Build on familiar concepts to ease practitioner transition.
+
+---
