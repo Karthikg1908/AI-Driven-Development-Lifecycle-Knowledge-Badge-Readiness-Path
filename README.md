@@ -1,5 +1,16 @@
 # AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path
 
+## AI-DLC Foundations: Introduction to AI-DLC
+
+Key Points
+1. Organizations are using AI in two ways: AI-Assisted (narrow tasks like code completion with existing rituals slowing velocity) and AI-Managed (single-shot autonomous development with minimal human involvement, often requiring significant time fixing code issues).
+2. AI-Assisted and AI-Managed approaches both have limitations in delivering transformative benefits.
+3. AI-DLC balances AI’s heavy lifting with human oversight and control.
+4. AI-DLC consists of 3 simple straight-forward phases: Inception, Construction and Operations.
+5. The core AI-DLC workflow follows a continuous cycle: Task → Plan → Clarify → Refine → Approve → Execute → Verify
+Cross-functional collaboration is essential for rapid decision-making
+
+
 ## Evolution from Traditional SDLC
 
 Key Points
