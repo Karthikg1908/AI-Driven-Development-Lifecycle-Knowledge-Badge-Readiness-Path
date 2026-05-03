@@ -26,15 +26,20 @@ Key Points
 
 ## AI-DLC Principles
 
-Nine Core Principles
-1. Reimagine workflows for the AI era rather than retrofitting AI into existing methodologies.
-2. AI orchestrates development while humans maintain ultimate control through validation and decisions.
-3. Design techniques are integral, not optional, building richer context for AI.
-4. Balance AI capabilities with human expertise through pragmatic alignment.
-5. Preserve proven practices while optimizing for AI-speed collaboration.
-6. Streamline roles to minimize handoffs while maintaining necessary oversight.
-7. Simplify to three phases (Inception, Construction, Operations) with strategic validation points.
-8. Enable flexible, AI-recommended workflows rather than rigid templates.
-9. Build on familiar concepts to ease practitioner transition.
+
+### 🌟 Nine Core Principles
+
+| # | Principle |
+|--|----------|
+| 1️⃣ | Reimagine workflows for the AI era |
+| 2️⃣ | AI orchestrates, humans validate |
+| 3️⃣ | Design is essential, not optional |
+| 4️⃣ | Balance AI power with human expertise |
+| 5️⃣ | Retain proven practices, optimize for speed |
+| 6️⃣ | Reduce handoffs, streamline roles |
+| 7️⃣ | Simplify into 3 phases with validations |
+| 8️⃣ | Prefer flexible workflows over rigid templates |
+| 9️⃣ | Build on familiar concepts for easy adoption |
+
 
 ---
