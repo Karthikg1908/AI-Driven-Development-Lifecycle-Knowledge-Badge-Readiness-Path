@@ -9,6 +9,7 @@ Key Points
 4. AI-DLC consists of 3 simple straight-forward phases: Inception, Construction and Operations.
 5. The core AI-DLC workflow follows a continuous cycle: Task → Plan → Clarify → Refine → Approve → Execute → Verify
 Cross-functional collaboration is essential for rapid decision-making
+[Click here to view certificate](#)
 
 ---
 
