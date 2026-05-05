@@ -6,7 +6,7 @@
 
 ---
 
-## 🏗️ AI-DLC Phases
+## 🏗️ AI-DLC Phases 
 
 | Phase | Description |
 |------|------------|
