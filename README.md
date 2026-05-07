@@ -52,7 +52,8 @@
 
 ### 📜 Certification
 
-> 🔗 [View Certificate](./Certification/AI-DLC%20Foundations%20Evolution.pdf)
+> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Foundations%20Evolution.pdf)
+
 
 ---
 
@@ -78,7 +79,7 @@
 
 ### 📜 Certification
 
-> 🔗 [View Certificate](./Certification/AI-DLC%20Foundations%20Principles.pdf)
+> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Foundations%20Principles.pdf)
 
 ---
 
