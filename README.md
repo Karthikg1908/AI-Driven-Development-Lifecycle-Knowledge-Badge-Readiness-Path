@@ -1,10 +1,17 @@
-# AI Driven Development Lifecycle Knowledge Badge Readiness Path
+# 🚀 AI Driven Development Lifecycle Knowledge Badge Readiness Path
+
+<div align="center">
+
+![AI-DLC](https://img.shields.io/badge/AI--DLC-Knowledge%20Badge-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
+
+</div>
 
 ---
 
-# AI-DLC Foundations: Introduction
+# 📘 AI-DLC Foundations: Introduction
 
-## Key Points
+## 🔑 Key Points
 
 - Organizations are using AI in two ways:
   - **AI-Assisted** → narrow tasks like code completion with existing rituals slowing velocity
@@ -15,27 +22,37 @@
 - AI-DLC balances AI’s heavy lifting with human oversight and control.
 
 - AI-DLC consists of 3 simple straight-forward phases:
-  - Inception
-  - Construction
-  - Operations
+  - 🧠 Inception
+  - 🏗️ Construction
+  - ⚙️ Operations
 
-- The core AI-DLC workflow follows a continuous cycle:
+---
+
+## 🔄 Core AI-DLC Workflow
 
 ```text
 Task → Plan → Clarify → Refine → Approve → Execute → Verify
 ```
 
+---
+
+## 🤝 Collaboration
+
 - Cross-functional collaboration is essential for rapid decision-making.
-
-### Certification
-
-[View Certificate](#)
 
 ---
 
-# AI-DLC Foundations: Evolution
+## 📜 Certification
 
-## Key Points
+➡️ [View Certificate](./Certification/AI-DLC%20Foundations%20Introduction.pdf)
+
+---
+
+<br>
+
+# 📘 AI-DLC Foundations: Evolution
+
+## 🔑 Key Points
 
 - Waterfall was sequential and phase-gated, appropriate for its era of expensive changes.
 
@@ -47,28 +64,42 @@ Task → Plan → Clarify → Refine → Approve → Execute → Verify
 
 - AI-DLC reimagines development with AI as integral, enabling continuous flow and real-time collaboration.
 
-### Certification
+---
 
-[View Certificate](#)
+## 📜 Certification
+
+➡️ [View Certificate](./Certification/AI-DLC%20Foundations%20Evolution.pdf)
 
 ---
 
-# AI-DLC Foundations: Principles
+<br>
 
-## Nine Core Principles
+# 📘 AI-DLC Foundations: Principles
+
+## 🌟 Nine Core Principles
 
 | # | Principle |
 |---|---|
-| 1 | Reimagine workflows for the AI era rather than retrofitting AI into existing methodologies |
-| 2 | AI orchestrates development while humans maintain ultimate control through validation and decisions |
-| 3 | Design techniques are integral, not optional, building richer context for AI |
-| 4 | Balance AI capabilities with human expertise through pragmatic alignment |
-| 5 | Preserve proven practices while optimizing for AI-speed collaboration |
-| 6 | Streamline roles to minimize handoffs while maintaining necessary oversight |
-| 7 | Simplify to three phases (Inception, Construction, Operations) with strategic validation points |
-| 8 | Enable flexible, AI-recommended workflows rather than rigid templates |
-| 9 | Build on familiar concepts to ease practitioner transition |
+| 1️⃣ | Reimagine workflows for the AI era rather than retrofitting AI into existing methodologies |
+| 2️⃣ | AI orchestrates development while humans maintain ultimate control through validation and decisions |
+| 3️⃣ | Design techniques are integral, not optional, building richer context for AI |
+| 4️⃣ | Balance AI capabilities with human expertise through pragmatic alignment |
+| 5️⃣ | Preserve proven practices while optimizing for AI-speed collaboration |
+| 6️⃣ | Streamline roles to minimize handoffs while maintaining necessary oversight |
+| 7️⃣ | Simplify to three phases (Inception, Construction, Operations) with strategic validation points |
+| 8️⃣ | Enable flexible, AI-recommended workflows rather than rigid templates |
+| 9️⃣ | Build on familiar concepts to ease practitioner transition |
 
-### Certification
+---
 
-[View Certificate](#)
+## 📜 Certification
+
+➡️ [View Certificate](./Certification/AI-DLC%20Foundations%20Principles.pdf)
+
+---
+
+<div align="center">
+
+### ⭐ AI-Driven Development Lifecycle Journey
+
+</div>
