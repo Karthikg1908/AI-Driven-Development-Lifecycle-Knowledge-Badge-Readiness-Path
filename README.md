@@ -1,80 +1,63 @@
-# 🚀 AI Driven Development Lifecycle Knowledge Badge Readiness Path
-
 <div align="center">
 
-![AI-DLC](https://img.shields.io/badge/AI--DLC-Knowledge%20Badge-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
+# 🚀 AI Driven Development Lifecycle  
+## 🏅 Knowledge Badge Readiness Path
+
+<img src="https://img.shields.io/badge/AI--DLC-Foundations-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Progress-Learning-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 📘 AI-DLC Foundations: Introduction
+# 📖 AI-DLC Foundations: Introduction
 
-## 🔑 Key Points
+## ✨ Key Points
 
-- Organizations are using AI in two ways:
-  - **AI-Assisted** → narrow tasks like code completion with existing rituals slowing velocity
-  - **AI-Managed** → single-shot autonomous development with minimal human involvement, often requiring significant time fixing code issues
-
-- AI-Assisted and AI-Managed approaches both have limitations in delivering transformative benefits.
-
-- AI-DLC balances AI’s heavy lifting with human oversight and control.
-
-- AI-DLC consists of 3 simple straight-forward phases:
-  - 🧠 Inception
-  - 🏗️ Construction
-  - ⚙️ Operations
+| Topic | Details |
+|---|---|
+| **AI-Assisted** | Narrow tasks like code completion with existing rituals slowing velocity |
+| **AI-Managed** | Single-shot autonomous development with minimal human involvement, often requiring significant time fixing code issues |
+| **Limitations** | AI-Assisted and AI-Managed approaches both have limitations in delivering transformative benefits |
+| **AI-DLC Goal** | Balances AI’s heavy lifting with human oversight and control |
+| **Phases** | Inception • Construction • Operations |
+| **Workflow** | `Task → Plan → Clarify → Refine → Approve → Execute → Verify` |
+| **Collaboration** | Cross-functional collaboration is essential for rapid decision-making |
 
 ---
 
-## 🔄 Core AI-DLC Workflow
+### 📜 Certification
 
-```text
-Task → Plan → Clarify → Refine → Approve → Execute → Verify
-```
-
----
-
-## 🤝 Collaboration
-
-- Cross-functional collaboration is essential for rapid decision-making.
-
----
-
-## 📜 Certification
-
-➡️ [View Certificate](./Certification/AI-DLC%20Foundations%20Introduction.pdf)
+> 🔗 [View Certificate](./Certification/AI-DLC%20Foundations%20Introduction.pdf)
 
 ---
 
 <br>
 
-# 📘 AI-DLC Foundations: Evolution
+# 📖 AI-DLC Foundations: Evolution
 
-## 🔑 Key Points
+## ✨ Key Points
 
-- Waterfall was sequential and phase-gated, appropriate for its era of expensive changes.
-
-- Agile emerged when technical capabilities (faster hardware, internet, automation) enabled iterative development.
-
-- Today’s AI capabilities represent another inflection point requiring fundamental methodology changes.
-
-- Retrofitting AI into existing processes creates mismatches between AI speed and human-paced ceremonies.
-
-- AI-DLC reimagines development with AI as integral, enabling continuous flow and real-time collaboration.
+| Topic | Details |
+|---|---|
+| **Waterfall** | Sequential and phase-gated, appropriate for its era of expensive changes |
+| **Agile** | Emerged when technical capabilities enabled iterative development |
+| **AI Era** | Today’s AI capabilities represent another inflection point requiring fundamental methodology changes |
+| **Challenge** | Retrofitting AI into existing processes creates mismatches between AI speed and human-paced ceremonies |
+| **AI-DLC Vision** | Reimagines development with AI as integral, enabling continuous flow and real-time collaboration |
 
 ---
 
-## 📜 Certification
+### 📜 Certification
 
-➡️ [View Certificate](./Certification/AI-DLC%20Foundations%20Evolution.pdf)
+> 🔗 [View Certificate](./Certification/AI-DLC%20Foundations%20Evolution.pdf)
 
 ---
 
 <br>
 
-# 📘 AI-DLC Foundations: Principles
+# 📖 AI-DLC Foundations: Principles
 
 ## 🌟 Nine Core Principles
 
@@ -92,14 +75,16 @@ Task → Plan → Clarify → Refine → Approve → Execute → Verify
 
 ---
 
-## 📜 Certification
+### 📜 Certification
 
-➡️ [View Certificate](./Certification/AI-DLC%20Foundations%20Principles.pdf)
+> 🔗 [View Certificate](./Certification/AI-DLC%20Foundations%20Principles.pdf)
 
 ---
 
 <div align="center">
 
-### ⭐ AI-Driven Development Lifecycle Journey
+## ⭐ AI-DLC Learning Journey
+
+Learning • Building • Evolving
 
 </div>
