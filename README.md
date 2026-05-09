@@ -79,6 +79,10 @@
 
 ### 📜 Certification
 
+<br># 📖 AI-DLC Foundations: AI-DLC Workflow and Collaboration## ✨ Key Points| Topic | Details ||---|---|| **Workflow Cycle** | AI-DLC follows a continuous cycle: `Task → Plan → Clarify → Refine → Approve → Execute → Verify` || **Decision Making** | High-velocity decisions require breaking apart problems, sharing responsibility, disagreeing and committing, and deciding with 70% data || **Decision Types** | One-way door decisions require deeper analysis, while two-way door decisions can be made quickly and adjusted later || **Critical Decision Points** | Clarification questions, plan approval, execution intervention, artifact quality, and iteration vs. completion || **Human + AI Collaboration** | Human collaboration at AI speed ensures decision-making does not become the bottleneck || **Continuous Refinement** | Teams iteratively validate and refine outputs throughout the lifecycle |---### 📜 Certification> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Foundations%20Workflow%20and%20Collaboration.pdf)---<div align="center">## ⭐ AI-DLC Learning JourneyLearning • Building • Evolving</div>
+
+
+
 > 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Foundations%20Principles.pdf)
 
 ---
