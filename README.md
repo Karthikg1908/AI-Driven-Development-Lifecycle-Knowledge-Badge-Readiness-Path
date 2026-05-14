@@ -85,7 +85,7 @@
 
 ### 📜 Certification
 
-> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Workflow%20and%20Collaboration.pdf)
+> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Foundations%20Workflow%20and%20Collaboration.pdf)
 
 ---
 
@@ -125,7 +125,7 @@
 
 ### 📜 Certification
 
-> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Planning%20Implementation%20and%20Measurement.pdf)
+> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Foundations%20Planning%2C%20Implementation%20and%20Measurement.pdf)
 
 ---
 
@@ -144,7 +144,7 @@
 
 ### 📜 Certification
 
-> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Inception%20Deep%20Dive.pdf)
+> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Foundations%20Inception%20Deep%20Dive.pdf)
 
 ---
 
@@ -186,7 +186,7 @@
 
 ### 📜 Certification
 
-> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Operations%20Deep%20Dive.pdf)
+> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Foundations%20Operations%20Deep%20Dive.pdf)
 
 ---
 
