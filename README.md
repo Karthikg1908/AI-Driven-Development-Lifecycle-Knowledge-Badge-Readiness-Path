@@ -4,8 +4,8 @@
 ## 🏅 Knowledge Badge Readiness Path
 
 <img src="https://img.shields.io/badge/AI--DLC-Foundations-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Progress-Learning-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Progress-Completed-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
 
 </div>
 
@@ -25,8 +25,6 @@
 | **Workflow** | `Task → Plan → Clarify → Refine → Approve → Execute → Verify` |
 | **Collaboration** | Cross-functional collaboration is essential for rapid decision-making |
 
----
-
 ### 📜 Certification
 
 > 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Foundations%20Introduction.pdf)
@@ -44,8 +42,6 @@
 | **AI Era** | Today’s AI capabilities represent another inflection point requiring fundamental methodology changes |
 | **Challenge** | Retrofitting AI into existing processes creates mismatches between AI speed and human-paced ceremonies |
 | **AI-DLC Vision** | Reimagines development with AI as integral, enabling continuous flow and real-time collaboration |
-
----
 
 ### 📜 Certification
 
@@ -69,6 +65,10 @@
 | 8️⃣ | Enable flexible, AI-recommended workflows rather than rigid templates |
 | 9️⃣ | Build on familiar concepts to ease practitioner transition |
 
+### 📜 Certification
+
+> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Foundations%20Principles.pdf)
+
 ---
 
 # 📖 AI-DLC Workflow and Collaboration
@@ -82,6 +82,10 @@
 | **Decision Types** | One-way door decisions require deliberation; two-way door decisions are reversible |
 | **Critical Points** | Clarification questions, plan approval, execution intervention, artifact quality, iteration vs. completion |
 | **Human Collaboration** | Human collaboration at AI speed prevents bottlenecks in decision-making |
+
+### 📜 Certification
+
+> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Workflow%20and%20Collaboration.pdf)
 
 ---
 
@@ -99,6 +103,10 @@
 | **Legacy Systems** | Contextualize legacy systems with semantic models before modernizing |
 | **Refactoring** | Use surgical A/B comparison and cross-functional validation to preserve business logic |
 
+### 📜 Certification
+
+> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Best%20Practices.pdf)
+
 ---
 
 # 📖 AI-DLC Foundations: Planning, Implementation, and Measurement
@@ -115,6 +123,10 @@
 | **Quality Improvement** | Metrics improve as teams master workflows and provide better context |
 | **Success Factors** | Balance speed with quality via proper measurement and continuous improvement |
 
+### 📜 Certification
+
+> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Planning%20Implementation%20and%20Measurement.pdf)
+
 ---
 
 # 📖 AI-DLC Foundations: Inception Deep Dive
@@ -129,6 +141,10 @@
 | **User Stories** | Smallest negotiable slice delivering value; clear, testable acceptance criteria |
 | **Units of Work** | Self-contained clusters of User Stories for parallel execution |
 | **Success** | Teams can begin building immediately without further clarification meetings |
+
+### 📜 Certification
+
+> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Inception%20Deep%20Dive.pdf)
 
 ---
 
@@ -149,6 +165,10 @@
 | **Build & Test** | Validates system via unit → integration → end-to-end testing with Mob Testing |
 | **Conclusion** | Summary Report documents go/no-go decision for Operations Phase |
 
+### 📜 Certification
+
+> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Construction%20Deep%20Dive.pdf)
+
 ---
 
 # 📖 AI-DLC Foundations: Operations Deep Dive
@@ -163,3 +183,17 @@
 | **Incident Management** | AI analyzes logs, identifies patterns, recommends actions; humans make final decisions |
 | **Code Fixes** | Seamless transition from operations to development for fixes using AI-DLC workflow |
 | **Transformation** | Turns operations from reactive to proactive, consistent system management |
+
+### 📜 Certification
+
+> 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Operations%20Deep%20Dive.pdf)
+
+---
+
+# 🏆 AI-DLC Full Course Completion
+
+> Certificate showing full completion of all AI-DLC Foundations modules.
+
+### 📜 Certification
+
+> 🔗 [View Full Course Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Full%20Course%20Completion.pdf)
