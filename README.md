@@ -31,10 +31,7 @@
 
 > 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Foundations%20Introduction.pdf)
 
-
 ---
-
-<br>
 
 # 📖 AI-DLC Foundations: Evolution
 
@@ -54,10 +51,7 @@
 
 > 🔗 [View Certificate](https://github.com/Karthikg1908/AI-Driven-Development-Lifecycle-Knowledge-Badge-Readiness-Path/blob/main/certificates/AI-DLC%20Foundations%20Evolution.pdf)
 
-
 ---
-
-<br>
 
 # 📖 AI-DLC Foundations: Principles
 
@@ -77,3 +71,95 @@
 
 ---
 
+# 📖 AI-DLC Workflow and Collaboration
+
+## ✨ Key Points
+
+| Topic | Details |
+|---|---|
+| **Workflow** | `Task → Plan → Clarify → Refine → Approve → Execute → Verify` — continuous cycle |
+| **Decision Making** | Break problems apart, share responsibility, disagree & commit, decide with 70% of data |
+| **Decision Types** | One-way door decisions require deliberation; two-way door decisions are reversible |
+| **Critical Points** | Clarification questions, plan approval, execution intervention, artifact quality, iteration vs. completion |
+| **Human Collaboration** | Human collaboration at AI speed prevents bottlenecks in decision-making |
+
+---
+
+# 📖 AI-DLC Foundations: Best Practices
+
+## ✨ Key Points
+
+| Topic | Details |
+|---|---|
+| **Task Management** | Never single-shot multi-step problems — break into manageable tasks |
+| **Semantic Optimization** | Maximize semantics per token with meaningful info; optimize signal-to-noise ratio |
+| **Context Management** | Refresh context strategically via documented decisions and relevant context loading |
+| **AI Boundaries** | Set clear limits to prevent AI overreach; question unnecessary features |
+| **Design Validation** | Ensure AI can implement patterns; pivot to simpler approaches when necessary |
+| **Legacy Systems** | Contextualize legacy systems with semantic models before modernizing |
+| **Refactoring** | Use surgical A/B comparison and cross-functional validation to preserve business logic |
+
+---
+
+# 📖 AI-DLC Foundations: Planning, Implementation, and Measurement
+
+## ✨ Key Points
+
+| Topic | Details |
+|---|---|
+| **Implementation Planning** | Requires technical readiness, cross-functional co-location, and domain knowledge assessment |
+| **Mechanism Choice** | Manual prompts (flexibility), system prompts (consistency), MCP servers (programmatic control) |
+| **Measurement** | Track time saved across lifecycle: requirements, design, development (including rework) |
+| **Accuracy Tracking** | Measure requirements precision, design stability, and code acceptance rates |
+| **Lifecycle Benefits** | Initial phases may take longer, but full-lifecycle measurement shows superior results |
+| **Quality Improvement** | Metrics improve as teams master workflows and provide better context |
+| **Success Factors** | Balance speed with quality via proper measurement and continuous improvement |
+
+---
+
+# 📖 AI-DLC Foundations: Inception Deep Dive
+
+## ✨ Key Points
+
+| Topic | Details |
+|---|---|
+| **Purpose** | Answer Why (Intent), What (User Stories), How (Units of Work) |
+| **Mob Elaboration** | AI proposes breakdowns; humans provide real-time validation across product, dev, QA |
+| **Intent** | Expressed in business language; describes capabilities; avoids premature tech decisions |
+| **User Stories** | Smallest negotiable slice delivering value; clear, testable acceptance criteria |
+| **Units of Work** | Self-contained clusters of User Stories for parallel execution |
+| **Success** | Teams can begin building immediately without further clarification meetings |
+
+---
+
+# 📖 AI-DLC Foundations: Construction Deep Dive
+
+## ✨ Key Points
+
+| Topic | Details |
+|---|---|
+| **Purpose** | Transform Units of Work into Deployment Units via Bolts (hours or days) |
+| **Mob Construction** | Full team works collaboratively on shared screen; AI proposes, humans validate |
+| **Stages** | Functional Design, NFR Design, Infrastructure Design, Code Generation, Build & Test |
+| **Dynamic Staging** | AI may skip stages based on task complexity |
+| **Functional Design** | Models business entities, rules, workflows in tech-agnostic language |
+| **NFR Design** | Defines quality attributes: performance, scalability, security |
+| **Infrastructure Design** | Maps components to cloud services; documented in ADRs |
+| **Code Generation** | Begins after human approval; full traceability to requirements |
+| **Build & Test** | Validates system via unit → integration → end-to-end testing with Mob Testing |
+| **Conclusion** | Summary Report documents go/no-go decision for Operations Phase |
+
+---
+
+# 📖 AI-DLC Foundations: Operations Deep Dive
+
+## ✨ Key Points
+
+| Topic | Details |
+|---|---|
+| **Extension** | Operations applies AI-DLC collaboration principles to deployment, monitoring, incidents |
+| **Deployment** | AI packages Units of Work; humans approve rollout plan |
+| **Observability** | AI-DLC applied to monitoring: metrics, dashboards, alerting; humans ensure compliance |
+| **Incident Management** | AI analyzes logs, identifies patterns, recommends actions; humans make final decisions |
+| **Code Fixes** | Seamless transition from operations to development for fixes using AI-DLC workflow |
+| **Transformation** | Turns operations from reactive to proactive, consistent system management |
